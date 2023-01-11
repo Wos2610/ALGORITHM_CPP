@@ -1,0 +1,1 @@
+{"name":"Local: S","url":"d:\\Documents\\CPP\\Algorithm\\Contest2\\S.cpp","tests":[{"id":1657379740130,"input":"2\nMDDM\nDDMDD","output":""},{"id":1657379816779,"input":"1\nMMMDDDMMMDDD","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\Algorithm\\Contest2\\S.cpp","group":"local","local":true}

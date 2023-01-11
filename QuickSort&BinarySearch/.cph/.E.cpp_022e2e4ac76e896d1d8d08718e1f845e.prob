@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\Documents\\CPP\\Algorithm\\QuickSort&BinarySearch\\E.cpp","tests":[{"id":1652438158959,"input":"2\n5\n4 5 6 4 5\n15\n1 4 5 9 7 8 8 5 6 9 9 9 2 8 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\Algorithm\\QuickSort&BinarySearch\\E.cpp","group":"local","local":true}

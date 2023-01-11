@@ -1,0 +1,1 @@
+{"name":"Local: QuickSort","url":"d:\\Documents\\CPP\\Algorithm\\QuickSort&BinarySearch\\QuickSort.cpp","tests":[{"id":1652429154250,"input":"6\n2 7 6 3 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\Algorithm\\QuickSort&BinarySearch\\QuickSort.cpp","group":"local","local":true}

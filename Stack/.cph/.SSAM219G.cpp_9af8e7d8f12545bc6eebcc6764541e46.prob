@@ -1,0 +1,1 @@
+{"name":"Local: SSAM219G","url":"d:\\Documents\\CPP\\Algorithm\\Stack\\SSAM219G.cpp","tests":[{"id":1658807582600,"input":"5\n3\n2 2 2\n7\n6 2 5 4 5 1 6 \n7\n6 2 5 4 5 1 6\n3\n2 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\Algorithm\\Stack\\SSAM219G.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\Documents\\CPP\\Algorithm\\DivideAndConquer\\A.cpp","tests":[{"id":1657552581031,"input":"2\n2 3\n4 2\n","output":""},{"id":1657552781822,"input":"1\n1000 1000000000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\Algorithm\\DivideAndConquer\\A.cpp","group":"local","local":true}

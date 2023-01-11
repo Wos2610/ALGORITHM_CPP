@@ -1,0 +1,1 @@
+{"name":"Local: BCSTACK","url":"d:\\Documents\\CPP\\Algorithm\\Stack\\BCSTACK.cpp","tests":[{"id":1658740969704,"input":"init\nempty\npush 2\nempty\ntop\npush 1\nsize\ntop\npop\ntop\ninit\npush 1\ntop\ninit\ntop\nend","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\CPP\\Algorithm\\Stack\\BCSTACK.cpp","group":"local","local":true}
